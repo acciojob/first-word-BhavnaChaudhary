@@ -8,4 +8,4 @@ function firstWord(str) {
 // Do not change the code below
 
 const str = prompt("Enter String:");
-//alert(firstWord(s));
+alert(firstWord(s));
